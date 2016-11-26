@@ -1,0 +1,35 @@
+html {
+	font-size: 12px; /*CSS comment*/
+	font-family:'Pacifico';
+	background-color: #00000F;
+	}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;    
+  color: #00000F;
+  text-shadow: 1px 1px 0px black;
+}
+
+p, li {
+  font-size: 16px;    
+  font-family: 'Pacifico', cursive;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #ED952A;
+  padding: 0px 20px 20px 20px;
+  border: 10px solid white;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
